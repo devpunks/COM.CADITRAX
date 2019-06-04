@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "COM.CADITRAX",
+  "name": "CADITRAX",
 
   "builds": [
       { "src": "index.html", "use": "@now/static" }
