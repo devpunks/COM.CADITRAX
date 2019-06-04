@@ -3,6 +3,7 @@
 *.sketch
 *.jpg
 static/
+EMBLEM/
 *.mov
 tmp
 pkg
