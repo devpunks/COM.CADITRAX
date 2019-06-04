@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "name": "CADITRAX",
-
-  "builds": [
-      { "src": "index.html", "use": "@now/static" }
-  ]
+  "name": "CADITRAX"
 }
